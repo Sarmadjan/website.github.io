@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Space+Grotesk:wght@300..700&display=swap');
+
+
+.AB{
+   
+    background: #B9FF66;
+
+}
+#white a{
+    color: aliceblue !important; 
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Space Grotesk", sans-serif;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+a{
+    color: aliceblue;
+}
+.btn-primary{
+    height: 35px;
+    background: #B9FF66;
+    color: black;
+
+}
+@media screen and (max-width: 767px) 
+{
+   
+.htext h1{
+    margin-top: 40px;
+    font-size: 65px;
+}
+}
+@media screen and (max-width: 992px) {
+    .htext h1{
+
+        margin-top: 30px;
+    font-size: 45px;
+    }
+    
+}
+.new{
+    background: #B9FF66;
+
+}
+.bgbg{
+    background: #F3F3F3;
+
+}
+.bgbg1{
+    background: #B9FF66;
+
+}
+.new1{
+    background: #F3F3F3;
+}
+.bba{
+    background: #F3F3F3;
+color: black;
+}
+
+.aaa{
+    top: -55%;
+    left: 40%;
+}
+@media screen and (max-width: 998px){
+    .aaa{
+        display: none;
+
+    }
+}
+
+.ht{
+    height: 80px ;
+}
+
+
+@media screen and (max-width: 768px){
+    .abcc{
+        display: none;
+
+    }
+}
+
+.bgf{
+    background-color: #292A32;
+}
+
+@media screen and ( max-width: 768px) {
+    .line p{
+        padding: 10px 0px;
+        border-bottom: 1px solid white;
+        
+
+    }
+    
+
+    
+} 
+@media screen and ( min-width: 768px) {
+    .line p{
+        padding: 0px 10px;
+        border-right: 1px solid white;
+        
+
+    }
+    
+
+    
+} 
+
+.abca a{
+    text-decoration: none;
+}
+.footer a{
+    text-decoration: none;
+}
